@@ -1,0 +1,100 @@
+/* css */
+
+html {
+    background-color: #cbaa7ed4;
+}
+*{
+font-family: "cursive" monospace serif ;
+font-size: large;  
+color: #bc6c25;
+margin: 20px; 
+}
+
+img {
+    width: 50px;
+    height: 50px;
+    border:#bc6c25 solid;}
+
+table {
+    width: auto;
+}
+
+th, td {
+	border: 1mm ridge #283618;
+	padding: 8px;
+   
+}
+
+thead th {
+  width: 25%;}
+
+thead tr{
+    background-color: #283618;
+  }
+
+  h1 {
+    text-align: center;
+    margin: 25px;
+    padding: 50px;
+    width: 20px;
+    height: auto;
+    border: darkgreen 10px solid;
+    border-radius: 25px;
+    box-shadow: 25px -12px #bc6c25;
+    display: block;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+    
+h2 {
+    width: 250px;
+    margin: 50px;
+    text-align: center;
+    padding: 25px;
+    box-shadow: 25px -12px #bc6c25;
+    border-radius: 20px;
+    display: block;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;}
+
+h3 {
+    width: 250px;
+    position: relative;
+    text-align: center;
+    padding: 15px;
+    box-shadow: 25px -12px #bc6c25;
+    border-radius: 15px;
+    display: block;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+  h1, h2, h3{
+   background-color: #283618;
+   border: #283618 1px solid;
+  }
+  .btn {
+    text-decoration: none;
+    padding: 0.5rem;
+    border: 5px solid #283618;
+  }
+  .code {
+    font-family: monospace;
+    background-color: rgb(89, 9, 19);
+  }
+
+  #tags {
+    width: 625px;
+    border: #283618 solid 10px;
+    padding: 25px;
+    margin: 25px;
+    box-shadow: 30px -20px #bc6c25;
+    display: block;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,0 +1,43 @@
+ <!-- Help me to create website -->
+  <!-- Reference cheat sheet to build more websites in the future! -->
+
+   <!-- First HTML-->
+    <!-- Les bases HTML -->
+     <!-- Tags HTML -->
+      <!-- <html>, <head>, <title>, <body>, <<ul..<li>..<ol>>,
+     <br>, <h1..h6>, <p>, <a..href..>, <img..src..alt>, <link>,
+     <footer>, <article>, <section>, <div>, <aside>, <audio>,
+      <canvas>, <datalist>, <details>, <embed>, <nav>, <search>, <output>,
+      <progress>, <video>, <header>, <main>, <table, <thead>, <tmain>, 
+      <tfooter>, <td>, <tr>, <th> etc......;
+
+   
+    <!-- Second CSS -->
+     <!-- ... -->
+      <!-- ... -->
+       <!-- ... -->
+        <!-- ... -->
+         <!-- ... -->
+          <!-- ... -->
+           <!-- ... -->
+            <!-- ... -->
+             <!-- ... -->
+              <!-- ... -->
+               <!-- ... -->
+                <!-- ... -->
+                 <!-- ... -->
+                  <!-- ... -->
+                   <!-- ... -->
+                    <!-- ... -->
+                     <!-- ... -->
+                      <!-- ... --> 
+                       <!-- ... -->
+                        <!-- ... -->
+                         <!-- ... -->
+                          <!-- ... -->
+                           <!-- ... -->
+                            <!-- ... -->
+                             <!-- ... -->
+                              <!-- ... -->
+                               <!-- ... -->
+                                <!-- ... -->
